@@ -1,3 +1,4 @@
-Bröd
-Mjölk
-Tomat
+- Bröd
+- Mjölk
+- Tomat
+- Gurka
